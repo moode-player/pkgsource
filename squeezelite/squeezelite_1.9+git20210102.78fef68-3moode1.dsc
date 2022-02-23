@@ -16,10 +16,10 @@ Package-List:
  squeezelite-pulseaudio deb sound optional arch=linux-any
 Checksums-Sha1:
  48b507c735bb6322f803196eba49e54a17b6f3b7 165901 squeezelite_1.9+git20210102.78fef68.orig.tar.gz
- 89d54670e9d0ede8d987a6bcb90d6fea25f1a57b 6924 squeezelite_1.9+git20210102.78fef68-3moode1.debian.tar.xz
+ 6d2b885c3359f253441c81843f938972d9955844 6936 squeezelite_1.9+git20210102.78fef68-3moode1.debian.tar.xz
 Checksums-Sha256:
  432fda27f10b302b805fa37fb7b9444b3698b32c54711b07484727fb1ecfd13e 165901 squeezelite_1.9+git20210102.78fef68.orig.tar.gz
- 20d0ef11da4b425eb5c31fdcf53040f586098ef8e0289221c916dafb6d772f4c 6924 squeezelite_1.9+git20210102.78fef68-3moode1.debian.tar.xz
+ fefd2e36b287071df5472bc2140b7265660a982f09e5d96131bdcad44389c0de 6936 squeezelite_1.9+git20210102.78fef68-3moode1.debian.tar.xz
 Files:
  4d5b07528c7b5a9e2b9a08d14abb4ac8 165901 squeezelite_1.9+git20210102.78fef68.orig.tar.gz
- 8e9367f33802b5f01fe6ab87aed3038d 6924 squeezelite_1.9+git20210102.78fef68-3moode1.debian.tar.xz
+ 2c23dbf146b1e474c432d10b9ad27577 6936 squeezelite_1.9+git20210102.78fef68-3moode1.debian.tar.xz
